@@ -3,4 +3,4 @@
 Gamer!!!!
 
 - [My EPIC!!! gamer circle](stickman/)
-- [bad NOT gamer list. Yes not PogChamp](to-do)
+- [bad NOT gamer list. Yes not PogChamp](to-do.txt)
