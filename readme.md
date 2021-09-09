@@ -4,4 +4,4 @@ Gamer!!!!
 
 - [My EPIC!!! gamer circle](circle/)
 - [bad NOT gamer list. Yes not PogChamp](to-do.txt)
-- [yes](Extract stickman/) 
+- [yes](stickman/)
