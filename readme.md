@@ -2,5 +2,6 @@
 
 Gamer!!!!
 
-- [My EPIC!!! gamer circle](stickman/)
+- [My EPIC!!! gamer circle](circle/)
 - [bad NOT gamer list. Yes not PogChamp](to-do.txt)
+- [yes](Extract stickman/) 
